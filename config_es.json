@@ -81,8 +81,8 @@
             "enableBackground": true,
             "items": [
                 {
-                    "category": "gid://popupapp.tenfit.co/cl_banner1",
-                    "image": "gid://shopify/Collection/461347062036",
+                    "category": "gid://shopify/Collection/478774690068",
+                    "image": "https://cdn.shopify.com/s/files/1/0824/3589/9668/files/BANNER_CAMISETAS_COOL_DRY.webp?v=1713017083",
                     "padding": 15.0
                 },
                 {
@@ -109,32 +109,32 @@
             "spacing": 12.0,
             "items": [
                 {
-                    "category": "gid://shopify/Collection/461347062036",
-                    "image": "https://cdn.shopify.com/s/files/1/0824/3589/9668/files/HOMBRE.png?v=1713626195",
+                    "category": "gid://shopify/Collection/479392203028",
+                    "image": "https://cdn.shopify.com/s/files/1/0824/3589/9668/files/Sin_titulo-1-04.png?v=1714082154",
                     "showText": true,
                     "originalColor": true,
                     "keepDefaultTitle": false,
                     "showDescription": false,
                     "productType": false,
-                    "title": "Camiseta",
+                    "title": "Chaquetas",
                     "onSale": false,
                     "isFeatured": false
                 },
                 {
-                    "category": "gid://shopify/Collection/461347062036",
-                    "image": "https://cdn.shopify.com/s/files/1/0824/3589/9668/files/MUJER.png?v=1713626196",
+                    "category": "gid://shopify/Collection/458707894548",
+                    "image": "https://cdn.shopify.com/s/files/1/0824/3589/9668/files/Sin_titulo-1-02.png?v=1714082156",
                     "showText": true,
                     "originalColor": true,
                     "keepDefaultTitle": false,
                     "showDescription": false,
                     "productType": false,
-                    "title": "Vaqueros",
+                    "title": "Leggins",
                     "onSale": false,
                     "isFeatured": false
                 },
                 {
                     "category": "gid://shopify/Collection/",
-                    "image": "https://images.unsplash.com/photo-1594587639781-a68a2796bb90?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+                    "image": "https://cdn.shopify.com/s/files/1/0824/3589/9668/files/Sin_titulo-1-05.png?v=1714082154",
                     "showText": true,
                     "originalColor": true,
                     "keepDefaultTitle": false,
@@ -145,86 +145,14 @@
                     "isFeatured": false
                 },
                 {
-                    "category": "gid://shopify/Collection/",
-                    "image": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1160&q=80",
+                    "category": "gid://shopify/Collection/475136786708",
+                    "image": "https://cdn.shopify.com/s/files/1/0824/3589/9668/files/Sin_titulo-1-03.png?v=1714082156",
                     "showText": true,
                     "originalColor": true,
                     "keepDefaultTitle": false,
                     "showDescription": false,
                     "productType": false,
-                    "title": "Traje",
-                    "onSale": false,
-                    "isFeatured": false
-                },
-                {
-                    "category": "gid://shopify/Collection/",
-                    "image": "https://images.unsplash.com/photo-1618932260643-eee4a2f652a6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=780&q=80",
-                    "showText": true,
-                    "originalColor": true,
-                    "keepDefaultTitle": false,
-                    "showDescription": false,
-                    "productType": false,
-                    "title": "Vestido",
-                    "onSale": false,
-                    "isFeatured": false
-                },
-                {
-                    "category": "gid://shopify/Collection/",
-                    "image": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=738&q=80",
-                    "showText": true,
-                    "originalColor": true,
-                    "keepDefaultTitle": false,
-                    "showDescription": false,
-                    "productType": false,
-                    "title": "Bolsa",
-                    "onSale": false,
-                    "isFeatured": false
-                },
-                {
-                    "category": "gid://shopify/Collection/",
-                    "image": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1160&q=80",
-                    "showText": true,
-                    "originalColor": true,
-                    "keepDefaultTitle": false,
-                    "showDescription": false,
-                    "productType": false,
-                    "title": "Anteojos",
-                    "onSale": false,
-                    "isFeatured": false
-                },
-                {
-                    "category": "gid://shopify/Collection/",
-                    "image": "https://images.unsplash.com/photo-1531399395381-6603d3b9899f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=719&q=80",
-                    "showText": true,
-                    "originalColor": true,
-                    "keepDefaultTitle": false,
-                    "showDescription": false,
-                    "productType": false,
-                    "title": "Sombrero",
-                    "onSale": false,
-                    "isFeatured": false
-                },
-                {
-                    "category": "gid://shopify/Collection/",
-                    "image": "https://images.unsplash.com/photo-1604508230015-5a54faf1fa56?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
-                    "showText": true,
-                    "originalColor": true,
-                    "keepDefaultTitle": false,
-                    "showDescription": false,
-                    "productType": false,
-                    "title": "Camiseta",
-                    "onSale": false,
-                    "isFeatured": false
-                },
-                {
-                    "category": "gid://shopify/Collection/",
-                    "image": "https://images.unsplash.com/photo-1475178626620-a4d074967452?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=686&q=80",
-                    "showText": true,
-                    "originalColor": true,
-                    "keepDefaultTitle": false,
-                    "showDescription": false,
-                    "productType": false,
-                    "title": "Vaqueros",
+                    "title": "Bike",
                     "onSale": false,
                     "isFeatured": false
                 }
