@@ -82,7 +82,7 @@
             "items": [
                 {
                     "category": "gid://popupapp.tenfit.co/cl_banner1",
-                    "image": "https://popupapp.tenfit.co/popup",
+                    "image": "gid://shopify/Collection/461347062036",
                     "padding": 15.0
                 },
                 {
