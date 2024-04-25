@@ -22,7 +22,7 @@
                     "showDescription": false,
                     "originalColor": false,
                     "keepDefaultTitle": true,
-                    "category": "gid://shopify/Collection/461347062036",
+                    "category": "gid://shopify/Collection/458708451604",
                     "title": "Hombre",
                     "image": "https://cdn.shopify.com/s/files/1/0824/3589/9668/files/ICONO_HOMBRE_Mesa_de_trabajo_1.png?v=1712941174",
                     "orderby": "title",
@@ -444,11 +444,11 @@
     "TabBar": [
         {
             "layout": "home",
-            "icon": "assets/icons/tabs/home-icon-1.png"
+            "icon": "assets/icons/tabs/home_icon.png"
         },
         {
             "layout": "category",
-            "icon": "assets/icons/tabs/icon-category.png",
+            "icon": "assets/icons/tabs/menu_icon.png",
             "remapCategories": [
                 {
                     "category": "gid://shopify/Collection/461347062036",
@@ -479,22 +479,17 @@
         },
         {
             "layout": "search",
-            "icon": "assets/icons/tabs/icon-search.png"
+            "icon": "assets/icons/tabs/search_icon.png"
         },
         {
             "pos": 400,
-            "icon": "bag",
-            "layout": "cart",
-            "categoryLayout": "cart",
-            "key": "a2xts0oou6",
-            "fontFamily": "CupertinoIcons"
+            "icon": "assets/icons/tabs/cart_icon.png",
+            "layout": "cart"
+            
         },
         {
             "layout": "profile",
-            "fontFamily": "CupertinoIcons",
-            "pos": 500,
-            "key": "69jw5yx12d",
-            "icon": "person"
+            "icon": "assets/icons/tabs/profile_icon.png"
         }
     ],
     "searchSuggestion": ["Aquí hay algunas sugerencias:", "Camiseta", "Jersey", "Sudadera"],
