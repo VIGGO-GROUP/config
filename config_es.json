@@ -4,7 +4,7 @@
             "layout": "logo",
             "showMenu": true,
             "logoSize": 40,
-            "image": "https://cdn.shopify.com/s/files/1/0824/3589/9668/files/logo_tenfit_negro.png?v=1703169303",
+            "image": "https://cdn.shopify.com/s/files/1/0824/3589/9668/files/logo_tenfit_app.png?v=1714134191",
             "showSearch": true,
             "showLogo": true,
             "enableBackground": true
@@ -86,13 +86,23 @@
                     "padding": 15.0
                 },
                 {
-                    "category": "gid://shopify/Collection/461292568852",
-                    "image": "https://ropadeportiva.tenfit.co/cdn/shop/files/AQUARELLE_1920X900_d3957e54-8f2c-4875-94d0-040abe5f0116.webp?v=1696342653&width=2000",
+                    "category": "gid://shopify/Collection/479794331924",
+                    "image": "https://ropadeportiva.tenfit.co/cdn/shop/files/BANNER_04.webp?v=1714083100&width=1500",
                     "padding": 15.0
                 },
                 {
-                    "category": "gid://shopify/Collection/458705371412",
-                    "image": "https://ropadeportiva.tenfit.co/cdn/shop/files/BZCOMPRESSION_1920X900_db897ce7-5314-4241-aff4-924fa752ab7d.webp?v=1696026326&width=2000",
+                    "category": "gid://shopify/Collection/475136786708",
+                    "image": "https://ropadeportiva.tenfit.co/cdn/shop/files/BANNER_01.webp?v=1714083100&width=1500",
+                    "padding": 15.0
+                },
+                {
+                    "category": "gid://shopify/Collection/475136786708",
+                    "image": "https://ropadeportiva.tenfit.co/cdn/shop/files/BANNER_03.webp?v=1714083101&width=1500",
+                    "padding": 15.0
+                },
+                {
+                    "category": "gid://shopify/Collection/462006944020",
+                    "image": "https://ropadeportiva.tenfit.co/cdn/shop/files/BANNER_02.webp?v=1714083101&width=1500",
                     "padding": 15.0
                 }
             ]
@@ -109,7 +119,7 @@
             "spacing": 12.0,
             "items": [
                 {
-                    "category": "gid://shopify/Collection/479392203028",
+                    "category": "gid://shopify/Collection/4479854264596",
                     "image": "https://cdn.shopify.com/s/files/1/0824/3589/9668/files/Sin_titulo-1-04.png?v=1714082154",
                     "showText": true,
                     "originalColor": true,
@@ -140,7 +150,7 @@
                     "keepDefaultTitle": false,
                     "showDescription": false,
                     "productType": false,
-                    "title": "Chaqueta",
+                    "title": "Shakers",
                     "onSale": false,
                     "isFeatured": false
                 },
@@ -235,10 +245,10 @@
             "enableBackground": true
         },
         {
-            "name": "Colecciones de hombre",
-            "image": "https://cdn.shopify.com/s/files/1/0824/3589/9668/files/POST-11-ENE_02.png?v=1705077434",
+            "name": "JACKET THUNDER",
+            "image": "https://cdn.shopify.com/s/files/1/0824/3589/9668/files/bloque_portada-02.webp?v=1714153852",
             "layout": "twoColumn",
-            "category": "gid://shopify/Collection/461347062036",
+            "category": "gid://shopify/Collection/479854264596",
             "enableBackground": true
         },
         {
@@ -443,7 +453,7 @@
         ]
     },
     "Drawer": {
-        "logo": "assets/images/tenfitlogo2.png",
+        "logo": "assets/images/logo_app_menu_4-03.png",
         "zoomConfig": {
             "style": "style1",
             "enableShadow": true,
