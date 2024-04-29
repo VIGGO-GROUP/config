@@ -81,8 +81,8 @@
             "enableBackground": true,
             "items": [
                 {
-                    "category": "gid://shopify/Collection/478774690068",
-                    "image": "https://cdn.shopify.com/s/files/1/0824/3589/9668/files/BANNER_CAMISETAS_COOL_DRY.webp?v=1713017083",
+                    "category": "gid://shopify/Collection/479854264596",
+                    "image": "https://ropadeportiva.tenfit.co/cdn/shop/files/landing-aterrizaje.jpg?v=1714241791&width=1100",
                     "padding": 15.0
                 },
                 {
@@ -93,6 +93,11 @@
                 {
                     "category": "gid://shopify/Collection/475136786708",
                     "image": "https://ropadeportiva.tenfit.co/cdn/shop/files/BANNER_01.webp?v=1714083100&width=1500",
+                    "padding": 15.0
+                },
+                {
+                    "category": "gid://shopify/Collection/479316738324",
+                    "image": "https://ropadeportiva.tenfit.co/cdn/shop/files/BANNER_07.webp?v=1714232400&width=1100",
                     "padding": 15.0
                 },
                 {
