@@ -389,7 +389,7 @@
             "layout": "home",
             "icon": "assets/icons/tabs/home_icon.png"
         },
-        {
+         {
             "layout": "category",
             "parallaxImageRatio": 1.2,
             "visible": true,
@@ -399,7 +399,7 @@
             "parallax": true,
             "defaultTab": false,
             "showSearch": true,
-            "icon": "assets/icons/tabs/icon-category.png",
+            "icon": "assets/icons/tabs/menu_icon.png",
             "categories": ["gid://shopify/Collection/461347062036", "gid://shopify/Collection/461181845780", "gid://shopify/Collection/458708451604", "gid://shopify/Collection/461610549524", "gid://shopify/Collection/475136786708"],
             "categoryLayout": "card",
             "key": "DajyohktFD"
