@@ -391,34 +391,18 @@
         },
         {
             "layout": "category",
-            "icon": "assets/icons/tabs/menu_icon.png",
-            "remapCategories": [
-                {
-                    "category": "gid://shopify/Collection/461347062036",
-                    "name": "Hombre",
-                    "image": "https://cdn.shopify.com/s/files/1/0824/3589/9668/files/HOMBRE.png?v=1713626195"
-                },
-                {
-                    "category": "gid://shopify/Collection/461181845780",
-                    "name": "Mujer",
-                    "image": "https://cdn.shopify.com/s/files/1/0824/3589/9668/files/BANNER_CATEGORIA_MUJER_WEBP.webp?v=1708619680"
-                },
-                {
-                    "category": "gid://shopify/Collection/458708451604",
-                    "name": "Niños",
-                    "image": "https://cdn.shopify.com/s/files/1/0824/3589/9668/files/BUZO_DE_COMRPESION_NINO_Mesa_de_trabajo_1.webp?v=1712777756"
-                },
-                {
-                    "category": "gid://shopify/Collection/461610549524",
-                    "name": "Accesorios",
-                    "image": "https://cdn.shopify.com/s/files/1/0824/3589/9668/files/ACCESORIES_640X640_dba30d40-2ab6-409f-8e6f-f10d6f1fcbf6.webp?v=1696284404"
-                },
-                {
-                    "category": "gid://shopify/Collection/475136786708",
-                    "name": "Bike",
-                    "image": "https://cdn.shopify.com/s/files/1/0824/3589/9668/files/BANNER--PRODUCTOS-NUEVOS-BIKER-FINAL-MUJER.jpg?v=1708606912"
-                }
-            ]
+            "parallaxImageRatio": 1.2,
+            "visible": true,
+            "fullscreen": false,
+            "pos": 200,
+            "showOriginalColor": false,
+            "parallax": true,
+            "defaultTab": false,
+            "showSearch": true,
+            "icon": "assets/icons/tabs/icon-category.png",
+            "categories": ["gid://shopify/Collection/461347062036", "gid://shopify/Collection/461181845780", "gid://shopify/Collection/458708451604", "gid://shopify/Collection/461610549524", "gid://shopify/Collection/475136786708"],
+            "categoryLayout": "card",
+            "key": "DajyohktFD"
         },
         {
             "layout": "search",
